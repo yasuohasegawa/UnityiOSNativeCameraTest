@@ -15,7 +15,7 @@ In the player setting, please set up the Graphics API to the OpenGL3.x only. The
 I know the name of this repository named `UnityiOSNativeCameraTest`, but I did not want to separate the sample in new repository. That's why we added it here.<br><br>
 We've tried to investigate capturing the back and front cameras at the same time like the iOS has that feature.
 But, there is no feature to capture both back and front cameras for Android.
-We won't provide this kind of sample in this repo.
+We won't provide this kind of sample in this repo for Android.
 
 <br><br>
 <b>Update 29/12/22:</b><br>
