@@ -1,0 +1,2 @@
+include ':CameraAPI2KtPlugin'
+rootProject.name = "CameraAPI2Kt"

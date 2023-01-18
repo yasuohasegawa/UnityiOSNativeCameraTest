@@ -1,0 +1,2 @@
+include ':CameraAPI2JVPlugin'
+rootProject.name = "CameraAPI2JV"
